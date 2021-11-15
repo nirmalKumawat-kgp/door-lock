@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/door-lock/static/css/main.859c4d59.chunk.css",
+    "main.js": "/door-lock/static/js/main.e949a1f0.chunk.js",
+    "main.js.map": "/door-lock/static/js/main.e949a1f0.chunk.js.map",
+    "runtime-main.js": "/door-lock/static/js/runtime-main.ebb391b0.js",
+    "runtime-main.js.map": "/door-lock/static/js/runtime-main.ebb391b0.js.map",
+    "static/js/2.4b79a046.chunk.js": "/door-lock/static/js/2.4b79a046.chunk.js",
+    "static/js/2.4b79a046.chunk.js.map": "/door-lock/static/js/2.4b79a046.chunk.js.map",
+    "static/js/3.6561e753.chunk.js": "/door-lock/static/js/3.6561e753.chunk.js",
+    "static/js/3.6561e753.chunk.js.map": "/door-lock/static/js/3.6561e753.chunk.js.map",
+    "index.html": "/door-lock/index.html",
+    "static/css/main.859c4d59.chunk.css.map": "/door-lock/static/css/main.859c4d59.chunk.css.map",
+    "static/js/2.4b79a046.chunk.js.LICENSE.txt": "/door-lock/static/js/2.4b79a046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb391b0.js",
+    "static/js/2.4b79a046.chunk.js",
+    "static/css/main.859c4d59.chunk.css",
+    "static/js/main.e949a1f0.chunk.js"
+  ]
+}
